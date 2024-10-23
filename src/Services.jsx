@@ -9,7 +9,7 @@ export default function Services() {
               For Your Business
             </h3>
           </div>
-          <p className="text-paragraph max-w-md text-wrap">
+          <p className="text-paragraph  text-wrap">
             We did research what your company needs and here we are providing
             all of them just for you
           </p>
@@ -21,7 +21,7 @@ export default function Services() {
               <h3 className="font-semibold text-xl text-title">
                 Share Insights
               </h3>
-              <p className="text-paragraph max-w-md text-wrap">
+              <p className="text-paragraph  text-wrap">
                 Working together with your team to make decisions
               </p>
             </div>
@@ -30,7 +30,7 @@ export default function Services() {
             <img src="/track-leads-icon.svg" alt="" />
             <div className="flex gap-2 flex-col ">
               <h3 className="font-semibold text-xl text-title">Track Leads</h3>
-              <p className="text-paragraph max-w-md text-wrap">
+              <p className="text-paragraph  text-wrap">
                 See where your money goes and comes in business
               </p>
             </div>
@@ -39,7 +39,7 @@ export default function Services() {
             <img src="/offline-mode.svg" alt="" />
             <div className="flex gap-2 flex-col ">
               <h3 className="font-semibold text-xl text-title">Offline Mode</h3>
-              <p className="text-paragraph max-w-md text-wrap">
+              <p className="text-paragraph  text-wrap">
                 Use the feature while off from internet? sure can
               </p>
             </div>
@@ -48,7 +48,7 @@ export default function Services() {
             <img src="/kanban-mode-icon.svg" alt="" />
             <div className="flex gap-2 flex-col ">
               <h3 className="font-semibold text-xl text-title">Kanban Mode</h3>
-              <p className="text-paragraph max-w-md text-wrap">
+              <p className="text-paragraph  text-wrap">
                 Organize the report that easy to be understand
               </p>
             </div>
@@ -59,7 +59,7 @@ export default function Services() {
               <h3 className="font-semibold text-xl text-title">
                 Reward System
               </h3>
-              <p className="text-paragraph max-w-md text-wrap">
+              <p className="text-paragraph  text-wrap">
                 Motivate your team working harder and receive a gift
               </p>
             </div>
@@ -68,7 +68,7 @@ export default function Services() {
             <img src="/country-icon.svg" alt="" />
             <div className="flex gap-2 flex-col ">
               <h3 className="font-semibold text-xl text-title">189 Country</h3>
-              <p className="text-paragraph max-w-md text-wrap">
+              <p className="text-paragraph  text-wrap">
                 Working together worldwide people from anywhere
               </p>
             </div>
