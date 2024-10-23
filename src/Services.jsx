@@ -4,7 +4,7 @@ export default function Services() {
       <div className="md:max-w-6xl mt-28 m-auto">
         <div className="flex gap-4 m-auto flex-col items-center text-center ">
           <div className="space-y-2">
-            <h4 className="font-extrabold text-secondaryOrange">Work Better</h4>
+            <h4 className="font-extrabold text-secondaryOrange">WORK BETTER</h4>
             <h3 className="font-extrabold text-4xl text-title">
               For Your Business
             </h3>
