@@ -4,9 +4,13 @@ export default {
   theme: {
     extend: {
       colors: {
+        primaryBlue: "#1F7CFF",
         title: "#070F18",
         paragraph: "#575455",
         gray: "#F5F6FB",
+      },
+      fontSize: {
+        displayXL: "55px",
       },
     },
   },
