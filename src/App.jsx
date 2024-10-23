@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/react";
 import CallToAction from "./CallToAction";
 function App() {
   return (
-    <div className="px-4">
+    <div className="px-4 overflow-hidden">
       <Analytics />
       <Navbar />
       <HeroSection />
